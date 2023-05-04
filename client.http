@@ -1,0 +1,7 @@
+POST http://localhost:8080/kafka/send
+
+무궁화 꽃이 피었습니다.
+###
+
+GET http://localhost:8080/kafka/map-size
+###
